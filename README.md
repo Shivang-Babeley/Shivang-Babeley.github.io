@@ -1,2 +1,2 @@
-# Shivang-Babeley.github.io
+# index.github.io
 Basic Intro
